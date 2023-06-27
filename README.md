@@ -3,7 +3,7 @@
 автор: egor951769794
 
 https://github.com/egor951769794
-https://github.com/egor951769794/labs-ML
+https://github.com/IamVOC/MLBasics/tree/main
 
 
 
